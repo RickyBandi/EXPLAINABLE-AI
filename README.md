@@ -1,5 +1,5 @@
 # EXPLAINABLE-AI
-# 📘 Explainable Assignments Repository
+# Explainable AI Assignments Repository
 
 Welcome to my **Explainable Assignments Repository**!  
 This repo contains my coursework submissions as part of my academic journey, designed to reflect **clarity, structure, and explainability** in machine learning & data science.
@@ -24,7 +24,7 @@ This assignment dives deeper into **explainable AI techniques** with Scikit-Lear
 
 ---
 
-## 👨‍🏫 Course Instructor
+## Course Instructor
 This repository is maintained under the guidance of:
 
 **Dr. Vairachilai Shenbagavel**  
@@ -32,8 +32,8 @@ This repository is maintained under the guidance of:
 
 ---
 
-## 🛠 Tech Stack
-- **Python 3.12** 🐍  
+## Tech Stack
+- **Python 3.12**
 - **Scikit-Learn 1.6.1**  
 - **Pandas, NumPy, Matplotlib, Seaborn**  
 - **Google Colab / Jupyter Notebook**  
@@ -41,7 +41,7 @@ This repository is maintained under the guidance of:
 
 ---
 
-## 📬 Contact
+## Contact
 - **Name:** B. Rithwik (Ricky)  
 - **University:** SR University  
 - **GitHub:** [github.com/RickyBandi](https://github.com/RickyBandi)  
