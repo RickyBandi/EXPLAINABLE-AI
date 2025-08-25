@@ -6,7 +6,7 @@ This repo contains my coursework submissions as part of my academic journey, des
 
 ---
 
-## 📝 Assignments
+## Assignments
 
 ### Assignment 1
 🔗 [View on GitHub](https://github.com/RickyBandi/EXPLAINABLE-AI/blob/main/Assignment_1.ipynb)
