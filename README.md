@@ -6,14 +6,6 @@ This repo contains my coursework submissions as part of my academic journey, des
 
 ---
 
-## 👨‍🏫 Course Instructor
-This repository is maintained under the guidance of:
-
-**Dr. Vairachilai Shenbagavel**  
-*Instructor & Mentor*
-
----
-
 ## 📝 Assignments
 
 ### Assignment 1
@@ -29,6 +21,14 @@ This assignment focuses on building foundational understanding of **data preproc
 
 **Description:**  
 This assignment dives deeper into **explainable AI techniques** with Scikit-Learn pipelines. Models are trained, evaluated, and visualized with an emphasis on **clarity and interpretability**.
+
+---
+
+## 👨‍🏫 Course Instructor
+This repository is maintained under the guidance of:
+
+**Dr. Vairachilai Shenbagavel**  
+*Instructor & Mentor*
 
 ---
 
