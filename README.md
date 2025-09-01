@@ -9,15 +9,26 @@ This repo contains my coursework submissions as part of my academic journey, des
 ## Assignments
 
 ### Assignment 1
-🔗 [View on GitHub](https://github.com/RickyBandi/EXPLAINABLE-AI/blob/main/Assignment_1.ipynb)
+🔗 [View Notebook on GitHub](https://github.com/RickyBandi/EXPLAINABLE-AI/blob/main/Assignment_1.ipynb)  
+📄 [View PDF](https://github.com/RickyBandi/EXPLAINABLE-AI/blob/main/PDF/Assignment-1.pdf)
 
 **Description:**  
 This assignment focuses on building foundational understanding of **data preprocessing, pipelines, and model training**. The task emphasizes *explainability* in each step.
 
 ---
 
+### Assignment 2
+🔗 [View Notebook on GitHub](https://github.com/RickyBandi/EXPLAINABLE-AI/blob/main/Assignment_2.ipynb)  
+📄 [View PDF](https://github.com/RickyBandi/EXPLAINABLE-AI/blob/main/PDF/Assignment-2.pdf)
+
+**Description:**  
+This assignment introduces **feature importance analysis techniques** and evaluates models with a focus on **explainability metrics**.
+
+---
+
 ### Assignment 3
-🔗 [View on GitHub](https://github.com/RickyBandi/EXPLAINABLE-AI/blob/main/Assignment_3.ipynb)
+🔗 [View Notebook on GitHub](https://github.com/RickyBandi/EXPLAINABLE-AI/blob/main/Assignment_3.ipynb)  
+📄 [View PDF](https://github.com/RickyBandi/EXPLAINABLE-AI/blob/main/Assignment-3.pdf)
 
 **Description:**  
 This assignment dives deeper into **explainable AI techniques** with Scikit-Learn pipelines. Models are trained, evaluated, and visualized with an emphasis on **clarity and interpretability**.
