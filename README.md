@@ -28,10 +28,31 @@ This assignment introduces **feature importance analysis techniques** and evalua
 
 ### Assignment 3
 🔗 [View Notebook on GitHub](https://github.com/RickyBandi/EXPLAINABLE-AI/blob/main/Assignment_3.ipynb)  
-📄 [View PDF](https://github.com/RickyBandi/EXPLAINABLE-AI/blob/main/Assignment-3.pdf)
+📄 [View PDF](https://github.com/RickyBandi/EXPLAINABLE-AI/blob/main/PDF/Assignment-3.pdf)
 
 **Description:**  
 This assignment dives deeper into **explainable AI techniques** with Scikit-Learn pipelines. Models are trained, evaluated, and visualized with an emphasis on **clarity and interpretability**.
+
+---
+
+### Assignment 4
+🔗 [View Notebook on GitHub](https://github.com/RickyBandi/EXPLAINABLE-AI/blob/main/Assignment_4.ipynb)  
+📄 [View PDF](https://github.com/RickyBandi/EXPLAINABLE-AI/blob/main/PDF/Assignment-4.pdf)
+
+**Description:**  
+This assignment explores **explainable AI methods** such as **Permutation Importance, SHAP, and LIME** on the **Titanic survival prediction dataset** using **Logistic Regression**. Both global and local explanations are provided for enhanced model interpretability.
+
+---
+
+## Datasets
+
+📂 All datasets used in these assignments are available here:  
+👉 [Dataset Folder](https://github.com/RickyBandi/EXPLAINABLE-AI/tree/main/Datasets)
+
+- **Assignment 1 Dataset:** Preprocessing & pipeline dataset  
+- **Assignment 2 Dataset:** Feature importance dataset  
+- **Assignment 3 Dataset:** Explainable ML pipelines dataset  
+- **Assignment 4 Dataset:** Titanic Survival Prediction dataset  
 
 ---
 
