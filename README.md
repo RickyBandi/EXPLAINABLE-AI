@@ -47,7 +47,7 @@ This assignment explores **explainable AI methods** such as **Permutation Import
 ## Datasets
 
 📂 All datasets used in these assignments are available here:  
-👉 [Dataset Folder](https://github.com/RickyBandi/EXPLAINABLE-AI/tree/main/Datasets)
+👉 [Dataset Folder](https://github.com/RickyBandi/EXPLAINABLE-AI/tree/main/Dataset)
 
 - **Assignment 1 Dataset:** Preprocessing & pipeline dataset  
 - **Assignment 2 Dataset:** Feature importance dataset  
