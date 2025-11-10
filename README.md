@@ -46,19 +46,16 @@ This assignment explores **explainable AI methods** such as **Permutation Import
 
 ### Assignment 5
 🔗 [View Notebook on GitHub](https://github.com/RickyBandi/EXPLAINABLE-AI/blob/main/Assignment_5.ipynb)  
-📄 [View PDF](https://github.com/RickyBandi/EXPLAINABLE-AI/blob/main/PDF/Assignment-4.pdf)
 
 ---
 
 ### Assignment 6
 🔗 [View Notebook on GitHub](https://github.com/RickyBandi/EXPLAINABLE-AI/blob/main/Assignment_6.ipynb)  
-📄 [View PDF](https://github.com/RickyBandi/EXPLAINABLE-AI/blob/main/PDF/Assignment-4.pdf)
 
 ---
 
 ### Assignment 7
 🔗 [View Notebook on GitHub](https://github.com/RickyBandi/EXPLAINABLE-AI/blob/main/Assignment_7.ipynb)  
-📄 [View PDF](https://github.com/RickyBandi/EXPLAINABLE-AI/blob/main/PDF/Assignment-4.pdf)
 
 ---
 
