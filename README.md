@@ -44,6 +44,33 @@ This assignment explores **explainable AI methods** such as **Permutation Import
 
 ---
 
+### Assignment 5
+🔗 [View Notebook on GitHub](https://github.com/RickyBandi/EXPLAINABLE-AI/blob/main/Assignment_5.ipynb)  
+📄 [View PDF](https://github.com/RickyBandi/EXPLAINABLE-AI/blob/main/PDF/Assignment-4.pdf)
+
+**Description:**  
+This assignment explores **explainable AI methods** such as **Permutation Importance, SHAP, and LIME** on the **Titanic survival prediction dataset** using **Logistic Regression**. Both global and local explanations are provided for enhanced model interpretability.
+
+---
+
+### Assignment 6
+🔗 [View Notebook on GitHub](https://github.com/RickyBandi/EXPLAINABLE-AI/blob/main/Assignment_6.ipynb)  
+📄 [View PDF](https://github.com/RickyBandi/EXPLAINABLE-AI/blob/main/PDF/Assignment-4.pdf)
+
+**Description:**  
+This assignment explores **explainable AI methods** such as **Permutation Importance, SHAP, and LIME** on the **Titanic survival prediction dataset** using **Logistic Regression**. Both global and local explanations are provided for enhanced model interpretability.
+
+---
+
+### Assignment 7
+🔗 [View Notebook on GitHub](https://github.com/RickyBandi/EXPLAINABLE-AI/blob/main/Assignment_7.ipynb)  
+📄 [View PDF](https://github.com/RickyBandi/EXPLAINABLE-AI/blob/main/PDF/Assignment-4.pdf)
+
+**Description:**  
+This assignment explores **explainable AI methods** such as **Permutation Importance, SHAP, and LIME** on the **Titanic survival prediction dataset** using **Logistic Regression**. Both global and local explanations are provided for enhanced model interpretability.
+
+---
+
 ## Datasets
 
 📂 All datasets used in these assignments are available here:  
