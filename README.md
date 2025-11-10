@@ -48,26 +48,17 @@ This assignment explores **explainable AI methods** such as **Permutation Import
 🔗 [View Notebook on GitHub](https://github.com/RickyBandi/EXPLAINABLE-AI/blob/main/Assignment_5.ipynb)  
 📄 [View PDF](https://github.com/RickyBandi/EXPLAINABLE-AI/blob/main/PDF/Assignment-4.pdf)
 
-**Description:**  
-This assignment explores **explainable AI methods** such as **Permutation Importance, SHAP, and LIME** on the **Titanic survival prediction dataset** using **Logistic Regression**. Both global and local explanations are provided for enhanced model interpretability.
-
 ---
 
 ### Assignment 6
 🔗 [View Notebook on GitHub](https://github.com/RickyBandi/EXPLAINABLE-AI/blob/main/Assignment_6.ipynb)  
 📄 [View PDF](https://github.com/RickyBandi/EXPLAINABLE-AI/blob/main/PDF/Assignment-4.pdf)
 
-**Description:**  
-This assignment explores **explainable AI methods** such as **Permutation Importance, SHAP, and LIME** on the **Titanic survival prediction dataset** using **Logistic Regression**. Both global and local explanations are provided for enhanced model interpretability.
-
 ---
 
 ### Assignment 7
 🔗 [View Notebook on GitHub](https://github.com/RickyBandi/EXPLAINABLE-AI/blob/main/Assignment_7.ipynb)  
 📄 [View PDF](https://github.com/RickyBandi/EXPLAINABLE-AI/blob/main/PDF/Assignment-4.pdf)
-
-**Description:**  
-This assignment explores **explainable AI methods** such as **Permutation Importance, SHAP, and LIME** on the **Titanic survival prediction dataset** using **Logistic Regression**. Both global and local explanations are provided for enhanced model interpretability.
 
 ---
 
@@ -76,10 +67,13 @@ This assignment explores **explainable AI methods** such as **Permutation Import
 📂 All datasets used in these assignments are available here:  
 👉 [Dataset Folder](https://github.com/RickyBandi/EXPLAINABLE-AI/tree/main/Dataset)
 
-- **Assignment 1 Dataset:** Preprocessing & pipeline dataset  
-- **Assignment 2 Dataset:** Feature importance dataset  
-- **Assignment 3 Dataset:** Explainable ML pipelines dataset  
-- **Assignment 4 Dataset:** Titanic Survival Prediction dataset  
+- **Assignment 1 Dataset:** Preprocessing & pipeline Dataset  
+- **Assignment 2 Dataset:** Feature importance Dataset  
+- **Assignment 3 Dataset:** Explainable ML pipelines Dataset  
+- **Assignment 4 Dataset:** Titanic Survival Prediction Dataset
+- **Assignment 5 Dataset:** Lung Cancer Dataset
+- **Assignment 6 Dataset:** Kidney Disease Dataset
+- **Assignment 7 Dataset:** Lung Cancer Dataset
 
 ---
 
